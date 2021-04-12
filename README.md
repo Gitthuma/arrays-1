@@ -5,3 +5,5 @@ Let's start off with some basic array practice. In this task we'd like you to cr
 Next, modify the first two items in the array using simple bracket notation and assignment. Then add a new item to the beginning of the array.
 
 Ref: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Test_your_skills:_Arrays
+
+Live web: https://gitthuma.github.io/arrays-1/
